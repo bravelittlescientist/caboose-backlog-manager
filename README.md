@@ -21,5 +21,6 @@ On a personal level, I'm excited to improve my technical skills in Django (and m
 to build an application that fellow gamers might find fun and useful.
 
 == Inspiration ==
+
 The Backloggery is a really cool backlog manager for mutiple platforms that provides very useful gameplay statistics. I
-enjoyed trying it.
+enjoyed trying it out and it may be a great tool for your gaming needs.
